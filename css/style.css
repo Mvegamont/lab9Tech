@@ -17,6 +17,7 @@ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans
 }
 .container {
     max-width: 1240px;
+    height: 600px;
     background: white;
     padding: 20px;
     border-radius: 10px;
